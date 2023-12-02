@@ -1,6 +1,6 @@
 export const properties = {
     courseName: 'Level 7 Animal Search',
-    endpoint: 'https://cheetah.api.jointheleague.org?q=',
+    endpoint: 'http://localhost:3000/?q=',
     description: 'Here is a brief description of the project.  Try to keep it to two or three sentences',
     backendSwaggerUrl: 'https://cheetah.api.jointheleague.org/',
     createdBy: 'Student One, Student Two, Student Three',
